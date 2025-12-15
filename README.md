@@ -64,11 +64,11 @@ BankingApplication/
 4. Run the application
    `mvn spring-boot:run`
 
-*(If this is a standalone Java application, run the main class directly.)*
+->Test the api's using Postman
 
 ---
 
-## 🧪 Sample Use Cases
+## 🧪 Use Cases
 
 * Open a new bank account
 * Deposit funds
@@ -103,6 +103,3 @@ GitHub: [https://github.com/sindhu27b](https://github.com/sindhu27b)
 
 ---
 
-## 📄 License
-
-This project is intended for demonstration purposes.
