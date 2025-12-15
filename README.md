@@ -27,6 +27,7 @@
 
 ## 🧱 Project Structure
 
+```text
 BankingApplication/
 ├── src/
 │   ├── main/
