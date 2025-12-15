@@ -26,8 +26,7 @@
 ---
 
 ## 🧱 Project Structure
-
-
+```
 BankingApplication/
 ├── src/
 │   ├── main/
@@ -42,7 +41,7 @@ BankingApplication/
 │   └── test/
 ├── pom.xml
 └── README.md
-
+```
 
 ## ⚙️ How to Run the Project
 
