@@ -1,34 +1,31 @@
-```md
 # Banking Application
 
-**Banking Application** built using Java springboot to demonstrate core backend development concepts such as account management, transactions, and basic business logic. This project is intended for portfolio demonstration purposes.
+ **Banking Application** built using Java to demonstrate core backend development concepts such as account management, transactions, and basic business logic. This project is intended for portfolio demonstration purposes.
 
 ---
 
 ## 🚀 Features
 
-- Create and manage bank accounts  
-- Deposit and withdraw funds  
-- Transfer money between accounts  
-- View account balances  
-- Input validation and basic error handling  
-- Clean, modular code structure  
+* Create and manage bank accounts
+* Deposit and withdraw funds
+* Transfer money between accounts
+* View account balances
+* Input validation and basic error handling
+* Clean, modular code structure
 
 ---
 
 ## 🛠️ Tech Stack
 
-- **Language:** Java  
-- **Build Tool:** Maven  
-- **Framework:** Spring Boot (if applicable)  
-- **Database:** In-memory / relational (based on implementation)  
-- **IDE:** IntelliJ IDEA / Eclipse  
+* **Language:** Java
+* **Build Tool:** Maven
+* **Framework:** Spring Boot 
+* **Database:**  relational 
+* **IDE:** IntelliJ IDEA / Eclipse
 
 ---
 
 ## 🧱 Project Structure
-
-```
 
 BankingApplication/
 ├── src/
@@ -45,26 +42,28 @@ BankingApplication/
 ├── pom.xml
 └── README.md
 
-```
-
 ---
 
 ## ⚙️ How to Run the Project
 
 ### Prerequisites
-- Java 8 or higher  
-- Maven  
+
+* Java 8 or higher
+* Maven
 
 ### Steps
 
-```
+1. Clone the repository
+   `git clone https://github.com/sindhu27b/BankingApplication.git`
 
-git clone [https://github.com/sindhu27b/BankingApplication.git](https://github.com/sindhu27b/BankingApplication.git)
-cd BankingApplication
-mvn clean install
-mvn spring-boot:run
+2. Navigate to the project directory
+   `cd BankingApplication`
 
-```
+3. Build the project
+   `mvn clean install`
+
+4. Run the application
+   `mvn spring-boot:run`
 
 *(If this is a standalone Java application, run the main class directly.)*
 
@@ -72,38 +71,39 @@ mvn spring-boot:run
 
 ## 🧪 Sample Use Cases
 
-- Open a new bank account  
-- Deposit funds  
-- Withdraw funds with balance validation  
-- Transfer money between accounts  
+* Open a new bank account
+* Deposit funds
+* Withdraw funds with balance validation
+* Transfer money between accounts
 
 ---
 
 ## 📌 Design Considerations
 
-- Layered architecture (Controller, Service, Repository, Model)  
-- Separation of concerns  
-- Reusable business logic  
-- Easy to extend with new features  
+* Layered architecture (Controller, Service, Repository, Model)
+* Clear separation of concerns
+* Reusable business logic
+* Designed for easy extensibility
 
 ---
 
 ## 🔮 Features
 
-- User authentication and authorization  
-- Persistent database (MySQL)  
-- RESTful APIs with proper HTTP status codes  
-- Transaction history and audit logs  
-- Unit and integration tests  
+* User authentication and authorization
+* Persistent database (MySQL / PostgreSQL)
+* RESTful APIs with proper HTTP status codes
+* Transaction history and audit logs
+* Unit and integration testing
 
 ---
 
 ## 👨‍💻 Author
 
-**Sindhuja Bollikonda**  
-GitHub: https://github.com/sindhu27b  
+**Sindhuja Bollikonda**
+GitHub: [https://github.com/sindhu27b](https://github.com/sindhu27b)
 
 ---
 
+## 📄 License
 
-```
+This project is intended for demonstration purposes.
